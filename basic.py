@@ -1,3 +1,2 @@
-a = "Welcome to Data Science"
-print(a)
-
+x = "40"
+print(type(x))
